@@ -23,7 +23,7 @@ Designed with **clean code principles** for readability, simplicity, and maintai
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/YourUsername/CSharp-Calculator.git
+git clone https://github.com/imanalp/CSharp-Calculator.git
 2.	Open the project in Visual Studio or any C# IDE.
 	3.	Run the program and follow prompts:
     Enter number 1: 10
